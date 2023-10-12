@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adwait47s&" alt="Adwait47s" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adwait47s&label=Profile%20views&color=0e75b6&style=flat" alt="Adwait47s" /> </p>
-
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adwait47s&show_icons=true&locale=en&layout=compact" alt="Adwait47s" /></p>
 
 <p align='center'>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ<br><img align="center" alt="Visitor Count" src="https://profile-counter.glitch.me/Adwait47s/count.svg"/></p>
